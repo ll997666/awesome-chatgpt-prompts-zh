@@ -1,1 +1,238 @@
-<mxfile host="app.diagrams.net" modified="2023-02-13T11:29:08.820Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.78" version="20.8.20" etag="QwEmenkYlzAVREc7XrjX" type="github"><diagram name="第 1 页" id="iqtpRgjDMWt_xRk2_CLg">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-13T15:06:55.335Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.78" etag="pM3LVDWBNAlU3G-P16Yr" version="20.8.20" type="github">
+  <diagram name="第 1 页" id="iqtpRgjDMWt_xRk2_CLg">
+    <mxGraphModel dx="1187" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="-jBA8Naghl_dJR8Lpy0w-2" value="考虑围岩损伤效应的深埋洞室时滞型岩爆试验研究" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="470" y="30" width="280" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="-jBA8Naghl_dJR8Lpy0w-3" value="" style="endArrow=classic;html=1;rounded=0;fontSize=30;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="-jBA8Naghl_dJR8Lpy0w-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="330" as="sourcePoint" />
+            <mxPoint x="610" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-jBA8Naghl_dJR8Lpy0w-4" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;弱化区域材料选取&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=30;" vertex="1" parent="1">
+          <mxGeometry x="515" y="140" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-jBA8Naghl_dJR8Lpy0w-5" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;fontSize=21;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="220" as="sourcePoint" />
+            <mxPoint x="810" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-jBA8Naghl_dJR8Lpy0w-6" value="" style="endArrow=classic;html=1;rounded=0;fontSize=30;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="190" as="sourcePoint" />
+            <mxPoint x="610" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="609.5" y="240" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-jBA8Naghl_dJR8Lpy0w-7" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fontSize=21;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="219" as="sourcePoint" />
+            <mxPoint x="810" y="259" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-jBA8Naghl_dJR8Lpy0w-8" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fontSize=21;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="411" y="221" as="sourcePoint" />
+            <mxPoint x="411" y="261" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-jBA8Naghl_dJR8Lpy0w-9" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;声波测试试验&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=30;arcSize=24;" vertex="1" parent="1">
+          <mxGeometry x="340" y="260" width="145" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-jBA8Naghl_dJR8Lpy0w-10" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;宏观破坏&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=30;arcSize=24;" vertex="1" parent="1">
+          <mxGeometry x="327.5" y="609" width="60" height="231" as="geometry" />
+        </mxCell>
+        <mxCell id="-jBA8Naghl_dJR8Lpy0w-11" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;巴西劈裂试验&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=30;arcSize=24;" vertex="1" parent="1">
+          <mxGeometry x="740" y="260" width="145" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-jBA8Naghl_dJR8Lpy0w-12" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;fontSize=21;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="350" as="sourcePoint" />
+            <mxPoint x="810" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-jBA8Naghl_dJR8Lpy0w-13" value="" style="endArrow=classic;html=1;rounded=0;fontSize=30;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="609.5" y="310" as="sourcePoint" />
+            <mxPoint x="609.5" y="380" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="609" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-jBA8Naghl_dJR8Lpy0w-16" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;fontSize=21;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="351" as="sourcePoint" />
+            <mxPoint x="410" y="311" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-jBA8Naghl_dJR8Lpy0w-17" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;fontSize=21;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="350" as="sourcePoint" />
+            <mxPoint x="810" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-jBA8Naghl_dJR8Lpy0w-18" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;岩爆模型试验&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=30;arcSize=24;" vertex="1" parent="1">
+          <mxGeometry x="537.5" y="380" width="145" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-jBA8Naghl_dJR8Lpy0w-19" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;单轴压缩实验&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=30;arcSize=24;" vertex="1" parent="1">
+          <mxGeometry x="537.5" y="260" width="145" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-jBA8Naghl_dJR8Lpy0w-20" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;应变特征&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=30;arcSize=24;" vertex="1" parent="1">
+          <mxGeometry x="440" y="609" width="60" height="231" as="geometry" />
+        </mxCell>
+        <mxCell id="-jBA8Naghl_dJR8Lpy0w-21" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;声发射参数&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=30;arcSize=24;" vertex="1" parent="1">
+          <mxGeometry x="727.5" y="609" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-jBA8Naghl_dJR8Lpy0w-22" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;洞壁展开图像&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=30;arcSize=24;" vertex="1" parent="1">
+          <mxGeometry x="827.5" y="609" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-jBA8Naghl_dJR8Lpy0w-23" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;fontSize=21;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="409.5" y="460" as="sourcePoint" />
+            <mxPoint x="809.5" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-jBA8Naghl_dJR8Lpy0w-25" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fontSize=21;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="809.5" y="459" as="sourcePoint" />
+            <mxPoint x="809.5" y="499" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-jBA8Naghl_dJR8Lpy0w-26" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fontSize=21;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410.5" y="461" as="sourcePoint" />
+            <mxPoint x="410.5" y="501" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-jBA8Naghl_dJR8Lpy0w-27" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;常规岩爆特征分析&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=30;arcSize=24;" vertex="1" parent="1">
+          <mxGeometry x="327.5" y="500" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-jBA8Naghl_dJR8Lpy0w-28" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;基于分形理论分析&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=30;arcSize=24;" vertex="1" parent="1">
+          <mxGeometry x="727.5" y="500" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-jBA8Naghl_dJR8Lpy0w-29" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fontSize=21;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="357" y="579" as="sourcePoint" />
+            <mxPoint x="357" y="609" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-jBA8Naghl_dJR8Lpy0w-30" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fontSize=21;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="469.5" y="579" as="sourcePoint" />
+            <mxPoint x="469.5" y="609" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-jBA8Naghl_dJR8Lpy0w-31" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;fontSize=21;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="357" y="579" as="sourcePoint" />
+            <mxPoint x="470" y="579" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-jBA8Naghl_dJR8Lpy0w-32" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;fontSize=21;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="412" y="578" as="sourcePoint" />
+            <mxPoint x="412" y="551" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-jBA8Naghl_dJR8Lpy0w-34" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fontSize=21;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="762" y="579" as="sourcePoint" />
+            <mxPoint x="762" y="609" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-jBA8Naghl_dJR8Lpy0w-35" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fontSize=21;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="864.25" y="579" as="sourcePoint" />
+            <mxPoint x="864.25" y="609" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-jBA8Naghl_dJR8Lpy0w-36" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;fontSize=21;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="762" y="579" as="sourcePoint" />
+            <mxPoint x="864" y="579" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-jBA8Naghl_dJR8Lpy0w-37" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;fontSize=21;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810.75" y="578" as="sourcePoint" />
+            <mxPoint x="810.75" y="551" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-jBA8Naghl_dJR8Lpy0w-38" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;fontSize=21;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="609.5" y="461" as="sourcePoint" />
+            <mxPoint x="610" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-jBA8Naghl_dJR8Lpy0w-39" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fontSize=21;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="762" y="709" as="sourcePoint" />
+            <mxPoint x="762" y="739" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-jBA8Naghl_dJR8Lpy0w-40" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;fontSize=21;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="862" y="709" as="sourcePoint" />
+            <mxPoint x="862" y="739" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-jBA8Naghl_dJR8Lpy0w-41" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;关联维数分析&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=30;arcSize=24;" vertex="1" parent="1">
+          <mxGeometry x="718.75" y="740" width="87.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-jBA8Naghl_dJR8Lpy0w-42" value="&lt;font style=&quot;font-size: 21px;&quot;&gt;盒维数&lt;br&gt;分析&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=30;arcSize=24;" vertex="1" parent="1">
+          <mxGeometry x="818.75" y="740" width="87.5" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="-jBA8Naghl_dJR8Lpy0w-45" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;fontSize=21;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="863" y="867" as="sourcePoint" />
+            <mxPoint x="357.75" y="867" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-jBA8Naghl_dJR8Lpy0w-46" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;fontSize=21;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="357" y="867" as="sourcePoint" />
+            <mxPoint x="357" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-jBA8Naghl_dJR8Lpy0w-47" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;fontSize=21;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="867" as="sourcePoint" />
+            <mxPoint x="470" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-jBA8Naghl_dJR8Lpy0w-48" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;fontSize=21;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="762" y="867" as="sourcePoint" />
+            <mxPoint x="762" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-jBA8Naghl_dJR8Lpy0w-49" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;fontSize=21;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="862" y="867" as="sourcePoint" />
+            <mxPoint x="862" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-jBA8Naghl_dJR8Lpy0w-50" value="" style="endArrow=classic;html=1;rounded=0;fontSize=30;strokeWidth=2;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="874" as="sourcePoint" />
+            <mxPoint x="610" y="918" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="609.5" y="868" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-jBA8Naghl_dJR8Lpy0w-52" value="考虑围岩损伤效应的深埋洞室时滞型岩爆孕育特征" style="rounded=1;whiteSpace=wrap;html=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="470" y="920" width="280" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
